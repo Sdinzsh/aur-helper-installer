@@ -16,8 +16,8 @@ You can also cancel the installation if you change your mind.
 1. Make the script executable (if not already):
 
    ```bash
-   chmod +x install-helper.sh
+   chmod +x aur-installer.sh
 2. To run the script
 
    ```bash
-   ./install-helper.sh
+   ./aur-installer.sh
